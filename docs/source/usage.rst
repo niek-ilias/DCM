@@ -1,7 +1,7 @@
-Usage
+DefMap
 =====
 
-.. _installation:
+.. _what_is_it_about:
 
 Installation
 ------------
